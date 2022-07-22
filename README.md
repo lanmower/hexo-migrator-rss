@@ -1,3 +1,5 @@
+# LANMOWER added creator and link
+
 # hexo-migrator-rss
 
 [![Build Status](https://travis-ci.org/hexojs/hexo-migrator-rss.svg?branch=master)](https://travis-ci.org/hexojs/hexo-migrator-rss)
