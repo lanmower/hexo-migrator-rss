@@ -4,4 +4,3 @@ tmp/
 *.log
 .idea/
 .nyc_output/
-config.bat
